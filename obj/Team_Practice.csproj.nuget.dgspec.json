@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\Team_Practice\\Team_Practice.csproj": {}
+    "C:\\Users\\mrjta\\Documents\\Team_Practice\\Team_Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\Team_Practice\\Team_Practice.csproj": {
+    "C:\\Users\\mrjta\\Documents\\Team_Practice\\Team_Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\Team_Practice\\Team_Practice.csproj",
+        "projectUniqueName": "C:\\Users\\mrjta\\Documents\\Team_Practice\\Team_Practice.csproj",
         "projectName": "Team_Practice",
-        "projectPath": "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\Team_Practice\\Team_Practice.csproj",
-        "packagesPath": "C:\\Users\\Spencer Saunders\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\Team_Practice\\obj\\",
+        "projectPath": "C:\\Users\\mrjta\\Documents\\Team_Practice\\Team_Practice.csproj",
+        "packagesPath": "C:\\Users\\mrjta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrjta\\Documents\\Team_Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Spencer Saunders\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mrjta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
