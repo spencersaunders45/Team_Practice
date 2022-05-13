@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\Team_Practice\\Team_Practice.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\Team_Practice\\Team_Practice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\Team_Practice\\Team_Practice.csproj",
+        "projectName": "Team_Practice",
+        "projectPath": "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\Team_Practice\\Team_Practice.csproj",
+        "packagesPath": "C:\\Users\\Spencer Saunders\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Spencer Saunders\\spenc\\College\\2022\\Spring 2022\\CSE 210\\Team_Practice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Spencer Saunders\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
