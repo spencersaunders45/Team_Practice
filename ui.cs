@@ -1,11 +1,11 @@
 using System;
 
 namespace team_practice{
-   class Program{
+   class Ui{
     //    initiallizing the variables
     private string name;
 
-    public Program(string name){
+    public Ui(string name){
         this.name = name;
     }
     public void Sayname(){
