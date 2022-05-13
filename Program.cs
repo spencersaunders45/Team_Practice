@@ -9,7 +9,8 @@ namespace team_practice{
          Person person = new Person("spencer", 27);
          Console.WriteLine("Hello World");
          Console.WriteLine("Hello World");
-         Console.ReadLine("what is your name?");
+         Console.Write("what is your name? : ");
+         string myName = Console.ReadLine();
          Console.WriteLine("My name is Juno");
       }
    }
