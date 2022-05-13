@@ -1,0 +1,15 @@
+/Users/eric/Documents/Code/github_fun/Team_Practice/bin/Debug/net6.0/Team_Practice
+/Users/eric/Documents/Code/github_fun/Team_Practice/bin/Debug/net6.0/Team_Practice.deps.json
+/Users/eric/Documents/Code/github_fun/Team_Practice/bin/Debug/net6.0/Team_Practice.runtimeconfig.json
+/Users/eric/Documents/Code/github_fun/Team_Practice/bin/Debug/net6.0/Team_Practice.dll
+/Users/eric/Documents/Code/github_fun/Team_Practice/bin/Debug/net6.0/Team_Practice.pdb
+/Users/eric/Documents/Code/github_fun/Team_Practice/obj/Debug/net6.0/Team_Practice.csproj.AssemblyReference.cache
+/Users/eric/Documents/Code/github_fun/Team_Practice/obj/Debug/net6.0/Team_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric/Documents/Code/github_fun/Team_Practice/obj/Debug/net6.0/Team_Practice.AssemblyInfoInputs.cache
+/Users/eric/Documents/Code/github_fun/Team_Practice/obj/Debug/net6.0/Team_Practice.AssemblyInfo.cs
+/Users/eric/Documents/Code/github_fun/Team_Practice/obj/Debug/net6.0/Team_Practice.csproj.CoreCompileInputs.cache
+/Users/eric/Documents/Code/github_fun/Team_Practice/obj/Debug/net6.0/Team_Practice.dll
+/Users/eric/Documents/Code/github_fun/Team_Practice/obj/Debug/net6.0/refint/Team_Practice.dll
+/Users/eric/Documents/Code/github_fun/Team_Practice/obj/Debug/net6.0/Team_Practice.pdb
+/Users/eric/Documents/Code/github_fun/Team_Practice/obj/Debug/net6.0/Team_Practice.genruntimeconfig.cache
+/Users/eric/Documents/Code/github_fun/Team_Practice/obj/Debug/net6.0/ref/Team_Practice.dll

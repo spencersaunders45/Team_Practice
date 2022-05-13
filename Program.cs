@@ -3,8 +3,9 @@
 namespace team_practice{
    class Program{
       static void Main(string[] args){
-         Console.WriteLine("Hello World");
-         Console.WriteLine("Hello World");
+         Ui user = new Ui("Jeff");
+         user.Sayname();
+
       }
    }
 }
